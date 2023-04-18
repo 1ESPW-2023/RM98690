@@ -1,0 +1,8 @@
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(231, 129, 163);
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px rgb(145, 143, 143);
+
+}
