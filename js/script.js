@@ -112,3 +112,4 @@ function alteraBanner3() {
     setTimeout(alteraBanner1, 1000);
 
 }
+// teste teste teste
